@@ -53,7 +53,7 @@ export default function SplashScreen({ onDone }) {
         transform: phase >= 1 ? 'scale(1) translateY(0)' : 'scale(0.7) translateY(20px)',
       }}>
         <img
-          src="/images/logo.png"
+          src="/images/logo.avif"
           alt="El Sazón de Brissi"
           style={{
             width: 'min(80vw, 260px)',

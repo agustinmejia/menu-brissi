@@ -56,7 +56,7 @@ export default function App() {
           animationDelay: '0.1s',
         }}>
           <img
-            src="/images/logo.png"
+            src="/images/logo.avif"
             alt="El Sazón de Brissi"
             style={{
               width: 'min(65vw, 200px)',

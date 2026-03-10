@@ -6,7 +6,7 @@ export const productos = [
     descripcion: "Alitas crujientes bañadas en salsa BBQ, acompañadas de papas fritas.",
     precio: "Bs. 18",
     tags: ["Normal", "Picante"],
-    imagen: "/images/alitas.png",
+    imagen: "/images/alitas.avif",
     ingredientes: [
       { icono: "🍗", nombre: "Alitas de pollo" },
       { icono: "🍅", nombre: "Salsa BBQ casera" },
@@ -23,7 +23,7 @@ export const productos = [
     descripcion: "Trío de mini burgers con carne jugosa, queso americano y pan brioche.",
     precio: "Bs. 12",
     tags: ["Clásica"],
-    imagen: "/images/hamburguesas.png",
+    imagen: "/images/hamburguesas.avif",
     ingredientes: [
       { icono: "🥩", nombre: "Carne res 100% premium" },
       { icono: "🧀", nombre: "Queso chedar" },
@@ -40,7 +40,7 @@ export const productos = [
     descripcion: "Bocaditos crujientes de pollo apanado con papas y salsa de tomate.",
     precio: "Bs. 16",
     tags: ["Crujiente"],
-    imagen: "/images/pipocas.png",
+    imagen: "/images/pipocas.avif",
     ingredientes: [
       { icono: "🍗", nombre: "Pechuga de pollo troceada" },
       { icono: "🌾", nombre: "Apanado crocante especial" },
